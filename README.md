@@ -51,7 +51,7 @@ foreach($test_ids as $test_id){
 
 <br>
 ## 输出
-```
+```txt
 1 = F-A-001
 9 = F-A-009
 10 = F-A-010
